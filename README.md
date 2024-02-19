@@ -21,4 +21,4 @@ Python3, библиотеки: PyTest , PyTest - Selenium; PageObject, Smart Pag
 5. Счетчик символов, подсчет количества знаков и слов в тексте онлайн  (https://www.mockaroo.com/)
 6. Генерация тестовых данных https://www.blindtextgenerator.com/ru
 7. Документация тестирования по проекту:
-8. Ссылка На тесткейсы https://docs.google.com/spreadsheets/d/1DOMiYR5EKzd5EAcaWrpueGoe7Ia_BAF3S0lESeVy3pU/edit#gid=1634092333
+8. Ссылка На тесткейсы https://docs.google.com/spreadsheets/d/1DOMiYR5EKzd5EAcaWrpueGoe7Ia_BAF3S0lESeVy3pU/edit#gid=0

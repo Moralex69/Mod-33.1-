@@ -1,0 +1,10 @@
+valid_email = 'xekayo7496@tupanda.com'
+valid_phone = '+7 926 398-55-49'
+valid_password = 'Qwert1234'
+valid_login = 'rtkid_1708158512533'
+valid_ls = '123456789123'
+valid_username = u"Тестов Ромашка"
+ad_slogan = u"Персональный помощник в цифровом мире Ростелекома"
+site = 'https://b2c.passport.rt.ru'
+link_lk = "/account_b2c/page"
+drv_path = 'C:\chromedriver_win32/chromedriver.exe'

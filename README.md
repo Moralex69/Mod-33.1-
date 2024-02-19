@@ -1,10 +1,6 @@
 Функциональное тестирование авторизации/регистарции "Ростелеком"
-Объекты тестирования: https://b2c.passport.rt.ru
-ЕЛК
-Онлайн
-Старт
-Умный дом
-Ключ
+ https://b2c.passport.rt.ru
+
 Используемые технологии:
 Python3, библиотеки: PyTest , PyTest - Selenium; PageObject, Smart Page Object
 
